@@ -29,8 +29,8 @@ img.posts
 .posts1
 {
   background-color:#F5F5F5;
-  height:150px;
-  width:200px;
+  height:190px;
+  width:230px;
   margin-left:140px;
   margin-top:70px;
   -moz-box-shadow:0 0 22px #111;
@@ -40,8 +40,8 @@ img.posts
 .posts2
 {
   background-color:#F5F5F5;
-  height:150px;
-  width:200px;
+  height:190px;
+  width:230px;
   margin-left:390px;
   margin-top:-150px;
   -moz-box-shadow:0 0 22px #111;
@@ -51,8 +51,8 @@ img.posts
 .posts3
 {
   background-color:#F5F5F5;
-  height:150px;
-  width:200px;
+  height:190px;
+  width:230px;
   margin-left:640px;
   margin-top:-150px;
   -moz-box-shadow:0 0 22px #111;
@@ -62,8 +62,8 @@ img.posts
 .posts4
 {
   background-color:#F5F5F5;
-  height:150px;
-  width:200px;
+  height:190px;
+  width:230px;
   margin-left:140px;
   margin-top:70px;
   -moz-box-shadow:0 0 22px #111;
@@ -73,8 +73,8 @@ img.posts
 .posts5
 {
   background-color:#F5F5F5;
-  height:150px;
-  width:200px;
+  height:190px;
+  width:230px;
   margin-left:390px;
   margin-top:-150px;
   -moz-box-shadow:0 0 22px #111;
@@ -84,13 +84,21 @@ img.posts
 .posts6
 {
   background-color:#F5F5F5;
-  height:150px;
-  width:200px;
+  height:190px;
+  width:230px;
   margin-left:640px;
   margin-top:-150px;
   -moz-box-shadow:0 0 22px #111;
   -webkit-box-shadow:0 0 22px #111;
   box-shadow:0 0 22px #111;
+}
+.quotebox
+{
+	font-size:36px;
+	font-family:'LaBelleAuroreRegular';
+	color:#999;
+	height:300px;
+	width:850px;
 }
 #slideshow{
 	background-color:#F5F5F5;
@@ -157,4 +165,8 @@ img.posts
 {
   margin-left:-120px;
   
+}
+hr
+{
+	margin-top:40px;
 }
