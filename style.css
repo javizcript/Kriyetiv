@@ -99,8 +99,49 @@ img.posts
 	color:#999;
 	height:300px;
 	width:850px;
+	margin-bottom:20px;
 }
-#slideshow{
+.footerdiv
+{
+	width:100%;
+	background-color:#E6E6E6;
+	height:150px;
+	margin-top:200px;
+	margin-bottom:-60px;
+	padding-top:10%;
+	padding-left:20px;
+}
+.footer-wrap
+{
+	margin:0 auto;
+	width:960px;
+
+}
+.footertxt
+{
+	font-size:18px;
+	color:#999;
+}
+div.footerdiv a.javizcript
+{
+	color:#005E95;
+	text-decoration:none;
+}
+a.javizcript:visited
+{
+	text-decoration:none;
+	color:#005E95;
+}
+a:link
+{
+	text-decoration:none;
+}
+a:active
+{
+	text-decoration:none;
+}
+#slideshow
+{
 	background-color:#F5F5F5;
 	border:1px solid #FFFFFF;
 	height:350px;
